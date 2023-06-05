@@ -5,5 +5,5 @@
 ## Screenshots
 <p align="center">
   <img src="Screenshots/Android1.jpg" height="450" width="220">
-  <img src="Screenshots/Android1.jpg" height="450" width="220">
+  <img src="Screenshots/Android2.jpg" height="450" width="220">
 </p>
